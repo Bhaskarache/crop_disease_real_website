@@ -1,1 +1,0 @@
-Put model.h5 and classes.txt here.
